@@ -1,2 +1,2 @@
 # Employee-Management-System
-This is my Employee Management System using asp .net core and react. 
+TheColorClone — A modern online coloring platform built with React, TypeScript, ASP.NET Core, SQL Server, and SVG-based coloring technology.
