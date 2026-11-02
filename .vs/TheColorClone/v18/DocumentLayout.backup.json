@@ -1,0 +1,1474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\TheColorClone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\admin\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminColoringPages.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\admin\\AdminColoringPages.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminDashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\admin\\AdminDashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\pages\\Login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\pages\\Register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Account.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\pages\\Account.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\ColoringPagesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Api\\Controllers\\ColoringPagesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Domain\\Entities\\ColoringPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Domain\\Entities\\ColoringPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\ColoringPages\\UpdateColoringPageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\DTOs\\ColoringPages\\UpdateColoringPageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\ColoringPages\\CreateColoringPageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\DTOs\\ColoringPages\\CreateColoringPageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\ColoringPages\\ColoringPageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\DTOs\\ColoringPages\\ColoringPageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Auth\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Api\\Controllers\\Auth\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Identity\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Identity\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Auth\\AuthResultDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\DTOs\\Auth\\AuthResultDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Identity\\IdentitySeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Identity\\IdentitySeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Identity\\JwtSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Identity\\JwtSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Services\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Interfaces\\Services\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\auth\\AuthContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\auth\\AuthContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\pages\\Account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminRoute.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\admin\\AdminRoute.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\admin-route.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\admin\\admin-route.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\pages\\Auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\admin-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\admin\\admin-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminUsers.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\admin\\AdminUsers.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Admin\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Api\\Controllers\\Admin\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Admin\\AdminUsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Api\\Controllers\\Admin\\AdminUsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\api\\client.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\api\\client.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\admin-users.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\admin\\admin-users.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Users\\AdminUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\DTOs\\Users\\AdminUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Identity\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Identity\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Users\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Api\\Controllers\\Users\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminCategories.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\admin\\AdminCategories.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Categories\\UpdateCategoryDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\DTOs\\Categories\\UpdateCategoryDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Categories\\CreateCategoryDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\DTOs\\Categories\\CreateCategoryDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Api\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Repositories\\ICategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Interfaces\\Repositories\\ICategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Repositories\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Repositories\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Services\\Categories\\CategoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Services\\Categories\\CategoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\ColoringPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\pages\\ColoringPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Services\\ColoringPages\\ColoringPageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Services\\ColoringPages\\ColoringPageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Services\\IColoringPageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Interfaces\\Services\\IColoringPageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Repositories\\ColoringPageRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Repositories\\ColoringPageRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Repositories\\IColoringPageRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Interfaces\\Repositories\\IColoringPageRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminLayout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\admin\\AdminLayout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminSidebar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\admin\\AdminSidebar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\components\\layout\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\components\\layout\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\api.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\api.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\CategoryPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\pages\\CategoryPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\components\\coloring\\SvgColoringCanvas.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\components\\coloring\\SvgColoringCanvas.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\components\\layout\\Footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\components\\layout\\Footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\ColoringPages.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\pages\\ColoringPages.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\SearchPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\pages\\SearchPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\components\\coloring\\ColoringCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\components\\coloring\\ColoringCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\api\\coloringPagesApi.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\api\\coloringPagesApi.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\ColoringPageDetails.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\pages\\ColoringPageDetails.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\lib\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\coloring-web\\src\\lib\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\Seed\\AdminSeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Data\\Seed\\AdminSeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Users\\ChangePasswordRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Api\\Controllers\\Users\\ChangePasswordRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\ColoringPages\\ColoringPageRatingsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Api\\Controllers\\ColoringPages\\ColoringPageRatingsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Services\\ColoringPageRatings\\ColoringPageRatingService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Services\\ColoringPageRatings\\ColoringPageRatingService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Services\\IColoringPageRatingService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Interfaces\\Services\\IColoringPageRatingService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\Configurations\\ColoringPageRatingConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Data\\Configurations\\ColoringPageRatingConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Repositories\\ColoringPageRatingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Repositories\\ColoringPageRatingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Repositories\\IColoringPageRatingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Interfaces\\Repositories\\IColoringPageRatingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Domain\\Entities\\ColoringPages\\ColoringPageRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Domain\\Entities\\ColoringPages\\ColoringPageRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Files\\FilesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Api\\Controllers\\Files\\FilesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\ColoringPages\\ColoringPageUploadController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Api\\Controllers\\ColoringPages\\ColoringPageUploadController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Security\\SvgSecurityValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Security\\SvgSecurityValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Security\\ISvgSecurityValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Interfaces\\Security\\ISvgSecurityValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Coloring.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Coloring.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Storage\\LocalFileStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Storage\\LocalFileStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Storage\\IFileStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Interfaces\\Storage\\IFileStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Repositories\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Repositories\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\Configurations\\ColoringPageConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Data\\Configurations\\ColoringPageConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\Configurations\\CategoryConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Infrastructure\\Data\\Configurations\\CategoryConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Services\\ICategoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Interfaces\\Services\\ICategoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Repositories\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\Interfaces\\Repositories\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Categories\\CategoryDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Application\\DTOs\\Categories\\CategoryDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Domain\\Entities\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Domain\\Entities\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TheColorClone\\backend\\Coloring.Domain\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Coloring.Domain\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColoringPagesController.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\ColoringPagesController.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Api\\Controllers\\ColoringPagesController.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\ColoringPagesController.cs",
+              "RelativeToolTip": "backend\\Coloring.Api\\Controllers\\ColoringPagesController.cs",
+              "ViewState": "AgIAAGACAAAAAAAAAAAAAIQCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T12:22:23.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColoringPage.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Domain\\Entities\\ColoringPage.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Domain\\Entities\\ColoringPage.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Domain\\Entities\\ColoringPage.cs",
+              "RelativeToolTip": "backend\\Coloring.Domain\\Entities\\ColoringPage.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:31:04.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:06:34.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminColoringPages.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminColoringPages.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\admin\\AdminColoringPages.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminColoringPages.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\admin\\AdminColoringPages.tsx",
+              "ViewState": "AgIAAB4GAAAAAAAAAAAkwEQGAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-29T07:05:53.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\admin.css",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\admin\\admin.css",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\admin.css",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\admin\\admin.css",
+              "ViewState": "AgIAABEHAAAAAAAAAAAkwC0HAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-28T06:44:24.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Account.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\pages\\Account.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Account.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\pages\\Account.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T12:52:43.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Login.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\pages\\Login.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Login.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\pages\\Login.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T12:39:22.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Register.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\pages\\Register.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Register.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\pages\\Register.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T12:39:50.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboard.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminDashboard.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\admin\\AdminDashboard.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminDashboard.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\admin\\AdminDashboard.tsx",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAhwGoBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T06:46:18.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateColoringPageDto.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\ColoringPages\\UpdateColoringPageDto.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\DTOs\\ColoringPages\\UpdateColoringPageDto.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\ColoringPages\\UpdateColoringPageDto.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\DTOs\\ColoringPages\\UpdateColoringPageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:38:58.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateColoringPageDto.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\ColoringPages\\CreateColoringPageDto.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\DTOs\\ColoringPages\\CreateColoringPageDto.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\ColoringPages\\CreateColoringPageDto.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\DTOs\\ColoringPages\\CreateColoringPageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:38:41.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ColoringPageDto.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\ColoringPages\\ColoringPageDto.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\DTOs\\ColoringPages\\ColoringPageDto.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\ColoringPages\\ColoringPageDto.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\DTOs\\ColoringPages\\ColoringPageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:38:24.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Program.cs",
+              "RelativeToolTip": "backend\\Coloring.Api\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAOUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:28:59.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Api\\Controllers\\Auth\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Auth\\AuthController.cs",
+              "RelativeToolTip": "backend\\Coloring.Api\\Controllers\\Auth\\AuthController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAHAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T12:44:01.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Identity\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Identity\\IdentitySeeder.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Identity\\IdentitySeeder.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Identity\\IdentitySeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T13:23:24.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Identity\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Identity\\JwtSettings.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Identity\\JwtSettings.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Identity\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:56:18.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Identity\\AuthService.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Identity\\AuthService.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Identity\\AuthService.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Identity\\AuthService.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAJcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T12:25:13.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthResultDto.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Auth\\AuthResultDto.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\DTOs\\Auth\\AuthResultDto.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Auth\\AuthResultDto.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\DTOs\\Auth\\AuthResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:49:38.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Interfaces\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Interfaces\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:48:44.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthContext.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\auth\\AuthContext.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\auth\\AuthContext.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\auth\\AuthContext.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\auth\\AuthContext.tsx",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAAAJkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T12:38:58.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Account.css",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Account.css",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\pages\\Account.css",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Account.css",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\pages\\Account.css",
+              "ViewState": "AgIAAEcDAAAAAAAAAAAkwG0DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-28T12:52:58.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\App.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\App.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\App.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\App.tsx",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAL4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-27T11:56:37.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminRoute.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminRoute.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\admin\\AdminRoute.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminRoute.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\admin\\AdminRoute.tsx",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-31T06:40:24.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "admin-route.css",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\admin-route.css",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\admin\\admin-route.css",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\admin-route.css",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\admin\\admin-route.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-31T07:06:53.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Auth.css",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Auth.css",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\pages\\Auth.css",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\Auth.css",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\pages\\Auth.css",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAkwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-28T12:40:18.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "admin-dashboard.css",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\admin-dashboard.css",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\admin\\admin-dashboard.css",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\admin-dashboard.css",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\admin\\admin-dashboard.css",
+              "ViewState": "AgIAAEsDAAAAAAAAAAAkwHEDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-31T06:14:12.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminUsers.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminUsers.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\admin\\AdminUsers.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminUsers.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\admin\\AdminUsers.tsx",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAAOwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-29T12:46:11.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Api\\Controllers\\Admin\\AdminController.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Admin\\AdminController.cs",
+              "RelativeToolTip": "backend\\Coloring.Api\\Controllers\\Admin\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:02:30.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Admin\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Api\\Controllers\\Admin\\AdminUsersController.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Admin\\AdminUsersController.cs",
+              "RelativeToolTip": "backend\\Coloring.Api\\Controllers\\Admin\\AdminUsersController.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAAAJsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T12:22:45.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "client.ts",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\api\\client.ts",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\api\\client.ts",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\api\\client.ts",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\api\\client.ts",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwHMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-27T12:01:21.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminUserDto.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Users\\AdminUserDto.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\DTOs\\Users\\AdminUserDto.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Users\\AdminUserDto.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\DTOs\\Users\\AdminUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T12:21:58.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "admin-users.css",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\admin-users.css",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\admin\\admin-users.css",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\admin-users.css",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\admin\\admin-users.css",
+              "ViewState": "AgIAAKADAAAAAAAAAAAwwNIDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-29T12:48:52.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminCategories.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminCategories.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\admin\\AdminCategories.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminCategories.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\admin\\AdminCategories.tsx",
+              "ViewState": "AgIAAL4FAAAAAAAAAAAAAOIFAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-29T11:22:51.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Categories\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\DTOs\\Categories\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Categories\\CreateCategoryDto.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\DTOs\\Categories\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:37:41.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Api\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "backend\\Coloring.Api\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAJkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T12:12:17.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Users\\UserController.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Api\\Controllers\\Users\\UserController.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Users\\UserController.cs",
+              "RelativeToolTip": "backend\\Coloring.Api\\Controllers\\Users\\UserController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAYwLEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:29:21.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:38:15.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:49:10.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:11:24.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Services\\Categories\\CategoryService.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Services\\Categories\\CategoryService.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Services\\Categories\\CategoryService.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Services\\Categories\\CategoryService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:53:51.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ColoringPage.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\ColoringPage.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\pages\\ColoringPage.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\ColoringPage.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\pages\\ColoringPage.tsx",
+              "ViewState": "AgIAAP0HAAAAAAAAAAAAACEIAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-27T13:06:24.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ColoringPageRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Repositories\\ColoringPageRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Repositories\\ColoringPageRepository.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Repositories\\ColoringPageRepository.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Repositories\\ColoringPageRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:11:49.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Categories\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\DTOs\\Categories\\UpdateCategoryDto.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Categories\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\DTOs\\Categories\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:37:58.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IColoringPageService.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Services\\IColoringPageService.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Interfaces\\Services\\IColoringPageService.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Services\\IColoringPageService.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Interfaces\\Services\\IColoringPageService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:52:36.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IColoringPageRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Repositories\\IColoringPageRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Interfaces\\Repositories\\IColoringPageRepository.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Repositories\\IColoringPageRepository.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Interfaces\\Repositories\\IColoringPageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:50:35.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ColoringPageService.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Services\\ColoringPages\\ColoringPageService.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Services\\ColoringPages\\ColoringPageService.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Services\\ColoringPages\\ColoringPageService.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Services\\ColoringPages\\ColoringPageService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:54:17.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminLayout.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminLayout.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\admin\\AdminLayout.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminLayout.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\admin\\AdminLayout.tsx",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T06:44:04.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Header.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\components\\layout\\Header.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\components\\layout\\Header.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\components\\layout\\Header.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\components\\layout\\Header.tsx",
+              "ViewState": "AgIAABUBAAAAAAAAAAAAADkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T07:05:09.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\main.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\main.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\main.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T07:02:14.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "api.ts",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\api.ts",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\api.ts",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\api.ts",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\api.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-27T13:05:33.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\App.css",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\App.css",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\App.css",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\App.css",
+              "ViewState": "AgIAAJUCAAAAAAAAAAAkwLsCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-28T12:41:52.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\index.css",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\index.css",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\index.css",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\index.css",
+              "ViewState": "AgIAABkHAAAAAAAAAAAiwDQHAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-27T11:57:13.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CategoryPage.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\CategoryPage.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\pages\\CategoryPage.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\CategoryPage.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\pages\\CategoryPage.tsx",
+              "ViewState": "AgIAADYBAAAAAAAAAAAUwFoBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T07:18:44.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdminSidebar.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminSidebar.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\admin\\AdminSidebar.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\admin\\AdminSidebar.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\admin\\AdminSidebar.tsx",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T06:43:40.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ColoringPages.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\ColoringPages.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\pages\\ColoringPages.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\ColoringPages.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\pages\\ColoringPages.tsx",
+              "ViewState": "AgIAAGkCAAAAAAAAAAAAAI0CAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-27T13:51:41.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SvgColoringCanvas.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\components\\coloring\\SvgColoringCanvas.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\components\\coloring\\SvgColoringCanvas.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\components\\coloring\\SvgColoringCanvas.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\components\\coloring\\SvgColoringCanvas.tsx",
+              "ViewState": "AgIAAI8CAAAAAAAAAAAAALMCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-27T12:52:26.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SearchPage.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\SearchPage.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\pages\\SearchPage.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\SearchPage.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\pages\\SearchPage.tsx",
+              "ViewState": "AgIAACIBAAAAAAAAAAAwwEYBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T07:23:38.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Footer.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\components\\layout\\Footer.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\components\\layout\\Footer.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\components\\layout\\Footer.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\components\\layout\\Footer.tsx",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAGEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T07:05:21.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ColoringCard.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\components\\coloring\\ColoringCard.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\components\\coloring\\ColoringCard.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\components\\coloring\\ColoringCard.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\components\\coloring\\ColoringCard.tsx",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-28T07:05:46.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "coloringPagesApi.ts",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\api\\coloringPagesApi.ts",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\api\\coloringPagesApi.ts",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\api\\coloringPagesApi.ts",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\api\\coloringPagesApi.ts",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-27T12:01:45.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "api.ts",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\lib\\api.ts",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\lib\\api.ts",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\lib\\api.ts",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\lib\\api.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-27T13:40:32.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\.env",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\.env",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\.env",
+              "RelativeToolTip": "frontend\\coloring-web\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-27T13:38:40.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ColoringPageDetails.tsx",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\ColoringPageDetails.tsx",
+              "RelativeDocumentMoniker": "frontend\\coloring-web\\src\\pages\\ColoringPageDetails.tsx",
+              "ToolTip": "C:\\Projects\\TheColorClone\\frontend\\coloring-web\\src\\pages\\ColoringPageDetails.tsx",
+              "RelativeToolTip": "frontend\\coloring-web\\src\\pages\\ColoringPageDetails.tsx",
+              "ViewState": "AgIAAIgBAAAAAAAAAAAAAKwBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-27T12:46:49.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AdminSeeder.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\Seed\\AdminSeeder.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Data\\Seed\\AdminSeeder.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\Seed\\AdminSeeder.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Data\\Seed\\AdminSeeder.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv3oAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T09:30:14.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Users\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Api\\Controllers\\Users\\ChangePasswordRequest.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Users\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "backend\\Coloring.Api\\Controllers\\Users\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:15:39.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:13:06.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:56:44.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\Coloring.Api\\appsettings.json",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\appsettings.json",
+              "RelativeToolTip": "backend\\Coloring.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-25T10:29:45.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ColoringPageRatingsController.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\ColoringPages\\ColoringPageRatingsController.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Api\\Controllers\\ColoringPages\\ColoringPageRatingsController.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\ColoringPages\\ColoringPageRatingsController.cs",
+              "RelativeToolTip": "backend\\Coloring.Api\\Controllers\\ColoringPages\\ColoringPageRatingsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:15:45.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ColoringPageRatingService.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Services\\ColoringPageRatings\\ColoringPageRatingService.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Services\\ColoringPageRatings\\ColoringPageRatingService.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Services\\ColoringPageRatings\\ColoringPageRatingService.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Services\\ColoringPageRatings\\ColoringPageRatingService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:11:19.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IColoringPageRatingService.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Services\\IColoringPageRatingService.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Interfaces\\Services\\IColoringPageRatingService.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Services\\IColoringPageRatingService.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Interfaces\\Services\\IColoringPageRatingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T09:04:29.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ColoringPageRatingConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\Configurations\\ColoringPageRatingConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Data\\Configurations\\ColoringPageRatingConfiguration.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\Configurations\\ColoringPageRatingConfiguration.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Data\\Configurations\\ColoringPageRatingConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T08:43:21.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ColoringPageRatingRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Repositories\\ColoringPageRatingRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Repositories\\ColoringPageRatingRepository.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Repositories\\ColoringPageRatingRepository.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Repositories\\ColoringPageRatingRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T08:39:01.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IColoringPageRatingRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Repositories\\IColoringPageRatingRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Interfaces\\Repositories\\IColoringPageRatingRepository.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Repositories\\IColoringPageRatingRepository.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Interfaces\\Repositories\\IColoringPageRatingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T08:38:27.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ColoringPageRating.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Domain\\Entities\\ColoringPages\\ColoringPageRating.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Domain\\Entities\\ColoringPages\\ColoringPageRating.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Domain\\Entities\\ColoringPages\\ColoringPageRating.cs",
+              "RelativeToolTip": "backend\\Coloring.Domain\\Entities\\ColoringPages\\ColoringPageRating.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T08:35:23.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Files\\FilesController.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Api\\Controllers\\Files\\FilesController.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\Files\\FilesController.cs",
+              "RelativeToolTip": "backend\\Coloring.Api\\Controllers\\Files\\FilesController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T12:58:53.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ColoringPageUploadController.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\ColoringPages\\ColoringPageUploadController.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Api\\Controllers\\ColoringPages\\ColoringPageUploadController.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Api\\Controllers\\ColoringPages\\ColoringPageUploadController.cs",
+              "RelativeToolTip": "backend\\Coloring.Api\\Controllers\\ColoringPages\\ColoringPageUploadController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwHUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T13:22:38.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "SvgSecurityValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Security\\SvgSecurityValidator.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Security\\SvgSecurityValidator.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Security\\SvgSecurityValidator.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Security\\SvgSecurityValidator.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwv0cAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T05:39:42.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ISvgSecurityValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Security\\ISvgSecurityValidator.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Interfaces\\Security\\ISvgSecurityValidator.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Security\\ISvgSecurityValidator.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Interfaces\\Security\\ISvgSecurityValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T05:37:06.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Coloring.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Coloring.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Coloring.Infrastructure.csproj",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Coloring.Infrastructure.csproj",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Coloring.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-25T12:49:07.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "LocalFileStorageService.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Storage\\LocalFileStorageService.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Storage\\LocalFileStorageService.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Storage\\LocalFileStorageService.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Storage\\LocalFileStorageService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T12:39:19.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IFileStorageService.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Storage\\IFileStorageService.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Interfaces\\Storage\\IFileStorageService.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Storage\\IFileStorageService.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Interfaces\\Storage\\IFileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T12:36:41.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:10:33.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ColoringPageConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\Configurations\\ColoringPageConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Data\\Configurations\\ColoringPageConfiguration.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\Configurations\\ColoringPageConfiguration.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Data\\Configurations\\ColoringPageConfiguration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:09:30.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Infrastructure\\Data\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Infrastructure\\Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "backend\\Coloring.Infrastructure\\Data\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:07:47.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Interfaces\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Interfaces\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:52:16.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\Interfaces\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\Interfaces\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\Interfaces\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:47:16.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Categories\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Application\\DTOs\\Categories\\CategoryDto.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Application\\DTOs\\Categories\\CategoryDto.cs",
+              "RelativeToolTip": "backend\\Coloring.Application\\DTOs\\Categories\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:37:09.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "backend\\Coloring.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:29:41.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\TheColorClone\\backend\\Coloring.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "backend\\Coloring.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Projects\\TheColorClone\\backend\\Coloring.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "backend\\Coloring.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:16:01.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

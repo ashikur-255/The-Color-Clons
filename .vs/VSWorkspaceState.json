@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend\\Coloring.Api",
+    "\\backend\\Coloring.Api\\Controllers",
+    "\\backend\\Coloring.Api\\Controllers\\Auth",
+    "\\backend\\Coloring.Infrastructure",
+    "\\backend\\Coloring.Infrastructure\\Identity",
+    "\\frontend",
+    "\\frontend\\coloring-web",
+    "\\frontend\\coloring-web\\src",
+    "\\frontend\\coloring-web\\src\\admin",
+    "\\frontend\\coloring-web\\src\\pages"
+  ],
+  "SelectedNode": "\\frontend\\coloring-web\\src\\admin\\admin.css",
+  "PreviewInSolutionExplorer": false
+}

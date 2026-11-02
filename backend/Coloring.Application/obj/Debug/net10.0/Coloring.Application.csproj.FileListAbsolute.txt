@@ -1,0 +1,15 @@
+C:\Projects\TheColorClone\backend\Coloring.Application\obj\Debug\net10.0\Coloring.Application.csproj.AssemblyReference.cache
+C:\Projects\TheColorClone\backend\Coloring.Application\obj\Debug\net10.0\Coloring.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TheColorClone\backend\Coloring.Application\obj\Debug\net10.0\Coloring.Application.AssemblyInfoInputs.cache
+C:\Projects\TheColorClone\backend\Coloring.Application\obj\Debug\net10.0\Coloring.Application.AssemblyInfo.cs
+C:\Projects\TheColorClone\backend\Coloring.Application\obj\Debug\net10.0\Coloring.Application.csproj.CoreCompileInputs.cache
+C:\Projects\TheColorClone\backend\Coloring.Application\bin\Debug\net10.0\Coloring.Application.deps.json
+C:\Projects\TheColorClone\backend\Coloring.Application\bin\Debug\net10.0\Coloring.Application.dll
+C:\Projects\TheColorClone\backend\Coloring.Application\bin\Debug\net10.0\Coloring.Application.pdb
+C:\Projects\TheColorClone\backend\Coloring.Application\bin\Debug\net10.0\Coloring.Domain.dll
+C:\Projects\TheColorClone\backend\Coloring.Application\bin\Debug\net10.0\Coloring.Domain.pdb
+C:\Projects\TheColorClone\backend\Coloring.Application\obj\Debug\net10.0\Coloring.EE3D9A9A.Up2Date
+C:\Projects\TheColorClone\backend\Coloring.Application\obj\Debug\net10.0\Coloring.Application.dll
+C:\Projects\TheColorClone\backend\Coloring.Application\obj\Debug\net10.0\refint\Coloring.Application.dll
+C:\Projects\TheColorClone\backend\Coloring.Application\obj\Debug\net10.0\Coloring.Application.pdb
+C:\Projects\TheColorClone\backend\Coloring.Application\obj\Debug\net10.0\ref\Coloring.Application.dll

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Coloring.Api/Coloring.Api.csproj" />
+  <Project Path="Coloring.Application/Coloring.Application.csproj" />
+  <Project Path="Coloring.Domain/Coloring.Domain.csproj" />
+  <Project Path="Coloring.Infrastructure/Coloring.Infrastructure.csproj" />
+  <Project Path="Coloring.Tests/Coloring.Tests.csproj" />
+</Solution>

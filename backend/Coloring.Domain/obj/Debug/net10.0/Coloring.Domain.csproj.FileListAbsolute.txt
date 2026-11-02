@@ -1,0 +1,11 @@
+C:\Projects\TheColorClone\backend\Coloring.Domain\bin\Debug\net10.0\Coloring.Domain.deps.json
+C:\Projects\TheColorClone\backend\Coloring.Domain\bin\Debug\net10.0\Coloring.Domain.dll
+C:\Projects\TheColorClone\backend\Coloring.Domain\bin\Debug\net10.0\Coloring.Domain.pdb
+C:\Projects\TheColorClone\backend\Coloring.Domain\obj\Debug\net10.0\Coloring.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TheColorClone\backend\Coloring.Domain\obj\Debug\net10.0\Coloring.Domain.AssemblyInfoInputs.cache
+C:\Projects\TheColorClone\backend\Coloring.Domain\obj\Debug\net10.0\Coloring.Domain.AssemblyInfo.cs
+C:\Projects\TheColorClone\backend\Coloring.Domain\obj\Debug\net10.0\Coloring.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\TheColorClone\backend\Coloring.Domain\obj\Debug\net10.0\Coloring.Domain.dll
+C:\Projects\TheColorClone\backend\Coloring.Domain\obj\Debug\net10.0\refint\Coloring.Domain.dll
+C:\Projects\TheColorClone\backend\Coloring.Domain\obj\Debug\net10.0\Coloring.Domain.pdb
+C:\Projects\TheColorClone\backend\Coloring.Domain\obj\Debug\net10.0\ref\Coloring.Domain.dll
